@@ -1,0 +1,11 @@
+{
+   "name": "minimum",
+   "title-ja": "最小限のテンプレート",
+   "title-en": "Minimum Template",
+   "description-ja": "Monacaアプリのひな形としてお使いいただけます。",
+   "description-en": "Minimum template for Monaca.",
+   "category": "Template",
+   "platform": ["ios", "android"],
+   "preview_url": "https://monaca.github.io/project-templates/1-minimum/www/index.html",
+   "framework_version": "2.9"
+}
